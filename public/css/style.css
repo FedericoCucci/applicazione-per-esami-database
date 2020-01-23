@@ -1,0 +1,194 @@
+.icona{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.upload{
+    width: 25px;
+    height: 25px;
+   
+}
+
+.elimina{
+    width: 30px;
+    height: 38px;
+    margin-left:10px;
+    cursor: pointer;
+
+}
+
+.modifica{
+    width: 30px;
+    height: 30px;
+    margin-left:10px;
+    cursor: pointer;
+
+}
+
+.link{
+    height: 40px; 
+    
+}
+.cred{
+    margin-bottom: 20px;
+}
+.link a:hover{
+    background-color: rgb(15, 114, 180);
+    color:white;
+    text-decoration: none;
+   
+    padding:5px;
+}
+
+.hidden{
+    display:none;
+}
+.card{
+margin-top: 20px;
+}
+
+
+h1{
+    text-align: center;
+    margin-top:10px;
+}
+
+.errore{
+    color:red;
+    text-align: center;
+    margin-bottom:20px;
+    
+}
+
+.successo{
+    color:green;
+    text-align: center;
+    margin-bottom:20px;
+}
+
+.cont{
+   height: 20px;
+   text-align: center;
+   margin-bottom: 10px;
+    
+}
+
+#div_btn_domanda{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+#div_btn_domanda button{
+    margin-top:-60px;
+    height: 37.04px;
+}
+
+#div_btn_file button{
+    margin-top:-70px;
+    height: 37.04px;
+    margin-left:100px;
+}
+
+#esercizi div{
+    display: flex;
+    justify-content: space-between;
+}
+
+#div_btn2{
+    margin-top: 20px;
+}
+
+.orario{
+    margin-top:50px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.form_risp{
+    margin-top:10px;
+}
+
+#salvataggio{
+    color:green;
+}
+
+.risp{
+    width: 700px;
+    height: 80px;
+}
+#schema{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenuto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    margin-top:20px;
+    margin-bottom:20px;
+    border-collapse:collapse;
+ 
+    }
+    td, th {
+    
+    border:1px solid;
+    padding:8px;
+    font-size:15px;
+    width:150px;
+    text-align:center;
+    border-color:black;
+    }
+    
+    
+
+    thead{
+        background-color:#D3D4D3;
+    }
+
+    .prova{
+        margin-top:10px;
+        margin-left: 10px;
+        margin-bottom:30px;
+    }
+   .risp_corr{
+    margin-top:10px;
+    margin-left: 10px;
+    margin-bottom:30px; 
+   }
+    #prova2{
+        margin-top:10px;
+    }
+
+    .provaQuery{
+        display: flex;
+        justify-content:flex-end;
+    }
+
+    .su{
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        border-color: black;
+        border-radius: 100%;
+        border:solid 1px;
+        padding:3px;
+        margin-bottom: 20px;
+    }
+    .su:hover{
+        background-color: lightgrey;
+    }
+
+    #query{
+        height: 140px;
+    }
+
+    .dom{
+        margin-bottom: 20px;
+    }
